@@ -21,7 +21,7 @@ There is a search for you to search for your favorite currency.</p>
 News about cryptocurrencies and when you click on it, it will take you to the main news page on the Internet </p>
 
 ## Demo
-<a href="https://shadowcryptocuurncies.netlify.app"  target="_blank" rel="noreferrer" > Link ></a>
+https://shadowcryptocuurncies.netlify.app/
 ## Install dependencies
 ```
   npm install
