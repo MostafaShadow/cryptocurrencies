@@ -22,7 +22,8 @@ News about cryptocurrencies and when you click on it, it will take you to the ma
 ## Demo
 https://instgram-clone-mern.herokuapp.com/
 
-Install dependencies => client
+## Install dependencies
+##"start"
 ```
   npm install
 ```
