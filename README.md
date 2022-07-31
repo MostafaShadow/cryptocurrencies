@@ -19,16 +19,15 @@ There is a search for you to search for your favorite currency.</p>
 <h3>News</h3>
 <p>Here there are a lot of
 News about cryptocurrencies and when you click on it, it will take you to the main news page on the Internet </p>
+
 ## Demo
-https://instgram-clone-mern.herokuapp.com/
 
 ## Install dependencies
-##"start"
 ```
   npm install
 ```
 
-Start :
+## Start Project :
 ```
   npm start
 ```
