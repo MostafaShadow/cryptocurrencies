@@ -10,8 +10,6 @@ import millify from "millify";
 import HTMLReactParser from "html-react-parser";
 import { DollarOutlined } from "@ant-design/icons";
 import { LineChart } from "components";
-// styles
-import "index.css";
 import styles from "./coinDetails.module.css";
 const CoinDetails = () => {
   const { coinId } = useParams();
