@@ -1,8 +1,6 @@
 import React from "react";
 import { Typography } from "antd";
 import { Coins, News, Stats } from "components";
-// styles
-import "index.css";
 import { useGetCurrenciesQuery } from "services/currenciesApi";
 const Home = () => {
   // crypto stats api
