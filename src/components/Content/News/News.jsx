@@ -4,9 +4,6 @@ import React from "react";
 import { useGetNewsQuery } from "services/newsApi";
 import defaultImage from "images/crypto_image.jpeg";
 import Masonry from "react-masonry-css";
-
-// styles
-import "index.css";
 import styles from "./news.module.css";
 const News = ({ setCount }) => {
   const count = setCount ? 10 : 100;
