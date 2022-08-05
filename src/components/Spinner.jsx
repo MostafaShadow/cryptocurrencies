@@ -1,6 +1,5 @@
 import React from "react";
 import { Circles } from "react-loader-spinner";
-import "index.css";
 const Spinner = ({ center, height, width }) => {
   const stylesApp = {
     display: "grid",
