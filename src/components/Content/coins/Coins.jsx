@@ -7,8 +7,6 @@ import { Spinner } from "components";
 import { CloseOutlined } from "@ant-design/icons";
 import Masonry from "react-masonry-css";
 
-// styles
-import "index.css";
 import styles from "./coins.module.css";
 const Coins = ({ setCount }) => {
   const count = setCount ? 10 : 100;
