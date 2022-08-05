@@ -4,8 +4,6 @@ import millify from "millify";
 import { Spinner } from "components";
 import Masonry from "react-masonry-css";
 
-// styles
-import "index.css";
 import styles from "./stats.module.css";
 const Stats = ({ statsValues, isLoading }) => {
   // break point Columns responseve
