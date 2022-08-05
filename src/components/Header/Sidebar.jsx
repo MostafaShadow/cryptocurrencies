@@ -2,8 +2,7 @@ import React from "react";
 import { Typography } from "antd";
 import logo from "images/logo.png";
 import { NavItmes } from "components";
-// styles
-import "index.css";
+
 import styles from "./styles.module.css";
 const Sidebar = ({ closeSidebar }) => {
   return (
