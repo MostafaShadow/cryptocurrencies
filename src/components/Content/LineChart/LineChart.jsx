@@ -12,7 +12,6 @@ import {
 import { Line } from "react-chartjs-2";
 import { Col, Row, Typography } from "antd";
 import React from "react";
-import "index.css";
 import { Spinner } from "components";
 
 // charts register
