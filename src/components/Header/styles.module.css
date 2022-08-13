@@ -1,0 +1,35 @@
+.sidebar_container {
+  height: 100vh;
+  background-color: var(--mainBg);
+  position: sticky;
+  top: 0;
+}
+.menu_container {
+  background-color: var(--mainBg) !important;
+}
+
+.navbar_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  border: 1px solid var(--mainBorder);
+  border-radius: 5px 0px;
+  margin-bottom: 10px;
+}
+.activeLink {
+  border-left: 2px solid var(--thirdBig) !important;
+}
+
+/* sidbar and navbar */
+.logo_container {
+  display: flex;
+  gap: 2px;
+  align-items: center;
+}
+
+.logo_container .image_logo {
+  width: 30px;
+  object-fit: contain;
+}
+

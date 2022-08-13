@@ -1,0 +1,25 @@
+.header_container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.icon {
+  color: var(--mainColor) !important;
+  font-size: 20px;
+}
+
+.info_container h3 {
+  color: var(--mainColor) !important;
+  font-size: 16px !important;
+}
+.info_container p {
+  color: var(--secondColor) !important;
+}
+
+.select_container {
+  background-color: #000 !important;
+}
+
+.select {
+  width: 100%;
+}

@@ -1,0 +1,39 @@
+.card_container {
+  margin: 15px 0px;
+  padding: 10px;
+  background-color: var(--cardBig);
+  border-radius: 6px;
+  transition: all 200ms ease-in-out;
+}
+.card_container:hover {
+  background-color: var(--mainBg);
+}
+.card_container .card_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card_container .card_header .card_header_title {
+  display: flex;
+  gap: 2px;
+}
+.card_container .card_header .image_coin {
+  width: 30px;
+  object-fit: contain;
+}
+
+.input_container {
+  display: flex;
+  border: 1px solid var(--mainBorder);
+  margin: 4px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--cardBig);
+}
+.input_container input {
+  width: 100%;
+  background: var(--mainBg) !important;
+}
+.input_container button .icon_close {
+  color: #fff;
+}
