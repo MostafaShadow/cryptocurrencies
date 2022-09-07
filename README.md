@@ -1,6 +1,6 @@
 # Currencies
 
-<h1>React Project cryoticurrencies </h1>
+<h1>React Project cryptocurrencies </h1>
 <h3>This site talks about Crypto currencies.
 Most notably, its types, price and some other information ,
 There are three pages on the site
